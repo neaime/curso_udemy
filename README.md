@@ -18,9 +18,9 @@ localhost:8011/payments
 
 Json:
 {
-		"id": 3,
-		"idUser": 1,
-		"idProduct": 1,
-		"cardNumber": "45648684"
+	"id": 3,
+	"idUser": 1,
+	"idProduct": 1,
+	"cardNumber": "45648684"
 } 
 ```
