@@ -14,7 +14,7 @@ docker-compose up
 
 ###### 3º - Com o postman ou Insomnia envie uma requisição do tipo POST para
 ```
-localhost:8011/payents
+localhost:8011/payments
 
 Json:
 {
